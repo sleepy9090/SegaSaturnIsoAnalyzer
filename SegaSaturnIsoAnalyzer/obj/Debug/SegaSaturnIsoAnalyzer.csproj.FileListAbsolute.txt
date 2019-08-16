@@ -1,0 +1,10 @@
+C:\workspace_sandbox\SegaSaturnIsoAnalyzer\SegaSaturnIsoAnalyzer\bin\Debug\SegaSaturnIsoAnalyzer.exe.config
+C:\workspace_sandbox\SegaSaturnIsoAnalyzer\SegaSaturnIsoAnalyzer\bin\Debug\SegaSaturnIsoAnalyzer.exe
+C:\workspace_sandbox\SegaSaturnIsoAnalyzer\SegaSaturnIsoAnalyzer\bin\Debug\SegaSaturnIsoAnalyzer.pdb
+C:\workspace_sandbox\SegaSaturnIsoAnalyzer\SegaSaturnIsoAnalyzer\obj\Debug\SegaSaturnIsoAnalyzer.AboutBox.resources
+C:\workspace_sandbox\SegaSaturnIsoAnalyzer\SegaSaturnIsoAnalyzer\obj\Debug\SegaSaturnIsoAnalyzer.FormSegaSaturnIsoAnalyzer.resources
+C:\workspace_sandbox\SegaSaturnIsoAnalyzer\SegaSaturnIsoAnalyzer\obj\Debug\SegaSaturnIsoAnalyzer.Properties.Resources.resources
+C:\workspace_sandbox\SegaSaturnIsoAnalyzer\SegaSaturnIsoAnalyzer\obj\Debug\SegaSaturnIsoAnalyzer.csproj.GenerateResource.cache
+C:\workspace_sandbox\SegaSaturnIsoAnalyzer\SegaSaturnIsoAnalyzer\obj\Debug\SegaSaturnIsoAnalyzer.csproj.CoreCompileInputs.cache
+C:\workspace_sandbox\SegaSaturnIsoAnalyzer\SegaSaturnIsoAnalyzer\obj\Debug\SegaSaturnIsoAnalyzer.exe
+C:\workspace_sandbox\SegaSaturnIsoAnalyzer\SegaSaturnIsoAnalyzer\obj\Debug\SegaSaturnIsoAnalyzer.pdb
