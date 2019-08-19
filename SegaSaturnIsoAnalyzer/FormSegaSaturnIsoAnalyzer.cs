@@ -32,7 +32,7 @@ namespace SegaSaturnIsoAnalyzer
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
             openFileDialog.Title = @"Open file...";
-            openFileDialog.Filter = @"iso/bin/img files (*.iso, *.bin, *.img)|*.iso;*.bin;*.img|All files (*.*)|*.*";
+            openFileDialog.Filter = @"iso/bin/img files (*.iso, *.bin, *.img, *.nrg)|*.iso;*.bin;*.img;*.nrg|All files (*.*)|*.*";
             openFileDialog.Multiselect = false;
 
             if (openFileDialog.ShowDialog() == DialogResult.OK)
